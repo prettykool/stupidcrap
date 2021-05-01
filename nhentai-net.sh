@@ -1,7 +1,9 @@
+#!/bin/bash
+
 # This script (nhentai-net) is released under the
 # Creative Commons CC-0 license, a digital copy
 # of which can be found here:
-# 
+# https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt
 
 # This is for downloading nhentai manga.
 # Yes, really. I made this while I was 
